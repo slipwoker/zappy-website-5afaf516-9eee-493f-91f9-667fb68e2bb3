@@ -7,39 +7,39 @@
 ## Pages
 
 ### Home
-https://-5afaf516.zappy5.app
+https://example.com
 
 ### תחומי עיסוק
-https://-5afaf516.zappy5.app/practice
+https://example.com/practice
 
 ### אודות
-https://-5afaf516.zappy5.app/about
+https://example.com/about
 
 ### תהליך
-https://-5afaf516.zappy5.app/process
+https://example.com/process
 
 ### שאלות נפוצות
-https://-5afaf516.zappy5.app/faq
+https://example.com/faq
 
 ### צור קשר
-https://-5afaf516.zappy5.app/contact
+https://example.com/contact
 
 ### תודה רבה | הפנייה התקבלה בהצלחה
-https://-5afaf516.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך למשרד עו״ד משה בן דוד. פנייתך התקבלה בהצלחה במערכת שלנו ואנו ניצור קשר בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5afaf516.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5afaf516.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5afaf516.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,6 +76,6 @@ Office / Business Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5afaf516.zappy5.app/sitemap.xml
-- Robots: https://-5afaf516.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5afaf516.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
