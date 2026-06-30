@@ -7,39 +7,39 @@
 ## Pages
 
 ### Home
-https://example.com
+https://moshe-ben-david-law-office.zappy5.app
 
 ### תחומי עיסוק
-https://example.com/practice
+https://moshe-ben-david-law-office.zappy5.app/practice
 
 ### אודות
-https://example.com/about
+https://moshe-ben-david-law-office.zappy5.app/about
 
 ### תהליך
-https://example.com/process
+https://moshe-ben-david-law-office.zappy5.app/process
 
 ### שאלות נפוצות
-https://example.com/faq
+https://moshe-ben-david-law-office.zappy5.app/faq
 
 ### צור קשר
-https://example.com/contact
+https://moshe-ben-david-law-office.zappy5.app/contact
 
 ### תודה רבה | הפנייה התקבלה בהצלחה
-https://example.com/thank-you
+https://moshe-ben-david-law-office.zappy5.app/thank-you
 תודה על פנייתך למשרד עו״ד משה בן דוד. פנייתך התקבלה בהצלחה במערכת שלנו ואנו ניצור קשר בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://moshe-ben-david-law-office.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://moshe-ben-david-law-office.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://moshe-ben-david-law-office.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,6 +76,6 @@ Office / Business Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://moshe-ben-david-law-office.zappy5.app/sitemap.xml
+- Robots: https://moshe-ben-david-law-office.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://moshe-ben-david-law-office.zappy5.app/llms-full.txt
